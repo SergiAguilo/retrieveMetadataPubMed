@@ -45,3 +45,5 @@ python3 parseXMLPubMed.py -i exampleData -d exampleDatabase.db
  ```
 
 To look at the data I suggest to download the [DB Browser for SQLite](https://sqlitebrowser.org/).
+
+The data is gathered from [ftp.ncbi.nlm.nih.gov/pubmed/baseline/](ftp.ncbi.nlm.nih.gov/pubmed/baseline/).
