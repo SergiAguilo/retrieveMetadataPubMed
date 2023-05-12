@@ -15,7 +15,7 @@ Python 3.5 or later is needed. The script depends on standard libraries, plus th
 
 ```bash
 python3 -m venv .pyXMLenv
-source .pyDBenv/bin/activate
+source .pyXMLenv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
